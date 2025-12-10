@@ -14,7 +14,7 @@
 
 <pre>
  <strong>$ whoami </strong>
- - I'm a 16 year old high school student from Romania. I go by elect0 online.
+ - I'm a 18 year old high school student from Romania. I go by elect0 online.
  - I love spending my time tinkering with software.
 
  <strong>$ finger </strong>
